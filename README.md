@@ -33,8 +33,7 @@ python WoTTClient.py http://150.65.152.91:9090/tactilesensor-5fd1037e-1c8c-df9e-
 where ```http://150.65.152.91:9090/tactilesensor-5fd1037e-1c8c-df9e-7136-ebfb938fc625``` is the url for WoTT application that exposes property affordances of TacLink device. Please modify according to your needs.
 
 ## Paper
-[[PDF] Web of Tactile Things: Towards an Open and Standardized Platform for Tactile Things via the W3C Web of Things",
-booktitle="Intelligent Information Systems](https://github.com/Ho-lab-jaist/wott-client/blob/main/paper/CAiSE2022_WOTT.pdf)
+[[PDF] Web of Tactile Things: Towards an Open and Standardized Platform for Tactile Things via the W3C Web of Things](https://github.com/Ho-lab-jaist/wott-client/blob/main/paper/CAiSE2022_WOTT.pdf)
 ### Citation
 ```
 @InProceedings{10.1007/978-3-031-07481-3_11,
