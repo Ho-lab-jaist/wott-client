@@ -1,6 +1,20 @@
 # wott-client
 The project replicates a digital twin of a large-scale vision-based tactile sensor based on a WoTT framework. 
 
+## Preliminary connection test
+Install namp tool
+```
+sudo apt-get update
+```
+```
+sudo apt-get install nmap
+```
+Then, scan active ports on our server PC.
+```
+nmap -p- -sV 150.65.152.71
+```
+You should see that 9090/tcp, 9292/tcp, and 9393/tcp ports are discovered and opened.
+
 ## About The wott-client
 
  - This project implements:
