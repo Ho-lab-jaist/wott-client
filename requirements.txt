@@ -1,0 +1,8 @@
+matplotlib==3.4.3
+numpy==1.24.4
+opencv_python==4.1.2.30
+pyvista==0.39.1
+pyvistaqt==0.10.0
+vtk==9.2.6
+wotpy==0.16.0
+pyqt5==5.15.9
