@@ -25,6 +25,7 @@ A WoT client that consumes the tactile information exposed by WoTT server runnin
 - wotpy
 - numpy
 - matplotlib
+- pyvista
 
 ## Getting Started
 The Wott client code should be run on a Ubuntu-OS computer.
