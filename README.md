@@ -37,12 +37,16 @@ Then add:
 $ 150.65.152.71  	ho-lab
 ```
 [150.65.xxx.xx] is the ip address of JAIST WoTT server.
+To install the required packages:
+```
+$ pip install -r requirements.txt
+```
 Then run:
 ```
 $ cd codes/
 ```
 ```
-python WoTTClient.py
+$ python WoTTClient.py
 ```
 
 ## Paper
