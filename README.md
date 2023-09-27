@@ -42,9 +42,8 @@ Then run:
 $ cd codes/
 ```
 ```
-python WoTTClient.py http://150.65.152.71:9090/tactilesensor-5fd1037e-1c8c-df9e-7136-ebfb938fc625
+python WoTTClient.py
 ```
-where ```http://150.65.152.71:9090/tactilesensor-5fd1037e-1c8c-df9e-7136-ebfb938fc625``` is the url for WoTT application that exposes property affordances of TacLink device. Please modify according to your needs.
 
 ## Paper
 [[PDF] Web of Tactile Things: Towards an Open and Standardized Platform for Tactile Things via the W3C Web of Things](https://github.com/Ho-lab-jaist/wott-client/blob/main/paper/CAiSE2022_WOTT.pdf)
